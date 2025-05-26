@@ -34,7 +34,7 @@
    **Ans:** 
     The WHERE clause is used in a SELECT statement to filter data. It selects only the rows that match specific condition. It provides the conditional data that a user need.
     For Example,
-    <pre lang="markdown"> SELECT * FROM students
-    WHERE age > 18;</pre>
+    <pre lang="markdown">```sql SELECT * FROM students
+    WHERE age > 18;```</pre>
     This command shows all the students information whose age is more than 18.
 
